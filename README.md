@@ -1,0 +1,2 @@
+# kiteco
+Kite, downloaded for install. Install failed/canceled notification requiring installation of tensorflow install. prior to Kite installation related to info. (statement) to continue proceed to url, https://github.com/kiteco/plugins/issues/118. After cont. to url this is what pops up in the url ( https://github.com/sessions/verified-device ) error 404 this is not the web page you are looking for "page"
